@@ -5,3 +5,18 @@ function work(){
     console.log("Post on timeline");
     console.log("Let others know about the post");
 }
+
+// call the funtion
+
+work();
+
+console.log("--------------");
+console.log("--------------");
+console.log("--------------");
+console.log("--------------");
+console.log("--------------");
+console.log("--------------");
+console.log("--------------");
+console.log("--------------");
+
+work();
